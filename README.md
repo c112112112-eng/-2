@@ -1,3 +1,3 @@
-#2
+ #2
 這個設計是有兩個FSM狀態，剛開始S0狀態，Counter1是從0數到9，Counter2保持253不變，
 接下來S1狀態，Counter1會保持0，Counter2會從253數到79，Counter1的0要和253重疊
